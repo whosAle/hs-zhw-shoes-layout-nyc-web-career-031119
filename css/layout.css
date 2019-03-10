@@ -47,3 +47,9 @@
 .first {
   margin-left: 0;
 }
+
+#details .col-1 {
+  float: left;
+  width: 32%;
+  background: #fff;
+}
